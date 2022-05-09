@@ -4,4 +4,15 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="AWSSDK.DynamoDBv2" Version="3.7.3.33" />
+    <PackageReference Include="AWSSDK.SimpleNotificationService" Version="3.7.3.57" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WebAdvert.AdvertApi.Models\WebAdvert.AdvertApi.Models.csproj" />
+  </ItemGroup>
+
 </Project>

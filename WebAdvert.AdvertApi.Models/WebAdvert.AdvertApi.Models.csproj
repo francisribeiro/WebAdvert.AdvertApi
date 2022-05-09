@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <Authors>Francis Ribeiro</Authors>
+    <Company>None</Company>
+    <Product>Web Advert Microservices</Product>
+    <PackageProjectUrl>https://github.com/francisribeiro/WebAdvert.AdvertApi</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/francisribeiro/WebAdvert.AdvertApi</RepositoryUrl>
+    <PackageId>Francis.WebAdvert.AdvertApi.Models</PackageId>
   </PropertyGroup>
 
 </Project>
